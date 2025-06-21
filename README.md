@@ -1,4 +1,8 @@
-# To-Do List App
+<h1 align = 'center'>To-Do List App</h1>
+
+
+
+
 
 A sleek and modern To-Do List web application built with **HTML**, **CSS**, and **JavaScript**. This app allows you to add, edit, complete, and delete tasks with a smooth user experience, progress tracking, and a fun confetti celebration when all tasks are done!
 
@@ -25,10 +29,10 @@ Try the live demo here: [Your Demo Link] (if hosted online)
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/Rolling-Thunder07/To-Do-App
+<pre> git clone https://github.com/Rolling-Thunder07/To-Do-App</pre>
 
 2. Navigate to the project folder:
-cd todo-list-app
+<pre> cd todo-list-app </pre>
 
 3. Open `index.html` in your favorite browser.
 
@@ -50,12 +54,16 @@ cd todo-list-app
 
 ## Folder Structure
 
-todo-list-app/
-│
-├── images/ # Images used in the app (wallpaper, empty state, etc.)
-├── index.html # Main HTML file
-├── style.css # Styling for the app
-└── script.js # JavaScript logic
+<pre> 
+todo-list-app/ 
+├── images/ 
+|   ├── castle.png 
+|   |── wallpaper.png
+|   └── screenshot.png
+├── index.html 
+├── style.css 
+└── script.js
+</pre>
 
 
 ## Contributing
